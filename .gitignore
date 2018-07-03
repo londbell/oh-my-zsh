@@ -1,0 +1,10 @@
+# custom files
+custom/
+!custom/config.zsh
+!custom/themes/
+!custom/plugins/example
+!custom/example.zsh
+
+# temp files directories
+cache/
+log/
