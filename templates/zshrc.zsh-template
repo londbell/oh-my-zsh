@@ -92,7 +92,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias cls='claer'
+alias z='cd'
+alias cls='clear'
 alias ll='la -l'
 alias la='ls -a'
 alias vi='vim'
