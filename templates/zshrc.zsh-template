@@ -92,3 +92,16 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias cls='claer'
+alias ll='la -l'
+alias la='ls -a'
+alias vi='vim'
+alias javac="javac -J-Dfile.encoding=utf8"
+alias grep="grep --color=auto"
+alias -s gz='tar -xzvf'
+alias -s tgz='tar -xzvf'
+alias -s zip='unzip'
+alias proxy='export http_proxy=http://127.0.0.1:1087'
+alias proxys='export https_proxy=http://127.0.0.1:1087'
+alias unproxy='unset http_proxy'
+alias unproxys='unset https_proxy'
